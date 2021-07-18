@@ -5,6 +5,10 @@ Project TOS is an experimental project to make a public github repo that hosted 
 
 Anyone may fork or use the content of this repo for free. The author will not be responsible for all the risks involved for using the content of this repo.  
 
+## TOS Thrift Shop
+https://thriftyoldstudent.github.io/ThriftShop/  
+This is a slightly complicated repo. With web3, Metamask encryption, IPFS, NFT interactions. Basically trying to demonstract an independent market place made possible with decentralized everything. The only real world problem that still exists is, the cost of gas fee might be too high? Therefore, this experiment only exist on Binance Testnet. Although it can be on Ethereum testnet, but I'm just lazy to do it plus there are alot of examples out there on Ethereum. You may test around with the features, but my private key is real, so don't send me real info! Coz i might abuse it!  
+
 ## NFTofRandomness
 https://github.com/ThriftyOldStudent/NFTofRandomness  
 This repo demonstrate the interaction with ERC721 tokens (BEP-721 in Binance Smart Chain), minted from [BakerySwap](https://www.bakeryswap.org/) and [Featured by Binance](https://www.featured.market/). The function consist of connecting with [Metamask](https://metamask.io/) wallet and then checking the wallet holder for the NFT they carry in their wallet. 
