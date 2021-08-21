@@ -33,3 +33,7 @@ Many struggle with the [OpenZeppelin](https://github.com/OpenZeppelin) library. 
 
 ### Possible utility  
 ERC20 token is a very popular ICO tool. I am still learning and explore. I'm a student after all. Let's learn togather!
+
+## miniESP32
+[https://github.com/ThriftyOldStudent/miniESP](https://github.com/ThriftyOldStudent/miniESP)
+This is a repo of a very basic interface PCBA for ESP32 WROOM-32D. I'm proffesionally in this kind of stuff, but I cannot post much on public. This repo is just to showcase my ability to use KiCAD. Nothing more. As ESP32 is one device which can be programmed to run as IOT device that integrates with IOTA. 
